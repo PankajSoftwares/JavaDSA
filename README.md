@@ -2,6 +2,8 @@
 
 
 📌 Order to Practice (with Repo Files)
+
+.............................................................
 Phase 1: Basics & Foundations
 
 arrays/ArrayBasics.java → max, min, reverse, sum, prefix-sum
@@ -129,8 +131,7 @@ greedy/FractionalKnapsack.java
 greedy/HuffmanEncoding.java
 
 
-.............................................................
-
+###################################################
 ⏳ Timeline (if you want a roadmap)
 
 Week 1–2: Arrays, Strings
