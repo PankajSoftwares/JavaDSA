@@ -18,7 +18,7 @@ strings/PalindromeCheck.java → is string palindrome?
 
 strings/LongestSubstring.java → sliding window
 
-
+.............................................................
 
 Phase 2: Linked Lists
 
@@ -30,7 +30,7 @@ linkedlist/ReverseLinkedList.java → iterative & recursive
 
 linkedlist/DetectCycle.java → Floyd’s algorithm
 
-
+.............................................................
 
 Phase 3: Stack & Queue
 
@@ -44,7 +44,7 @@ stack_queue/BalancedParentheses.java
 
 stack_queue/NextGreaterElement.java
 
-
+.............................................................
 
 Phase 4: Hashing
 
@@ -54,7 +54,7 @@ hashing/TwoSum.java → check pair with target sum
 
 hashing/LongestSubstringNoRepeat.java → sliding window
 
-
+.............................................................
 
 Phase 5: Recursion & Backtracking
 
@@ -66,7 +66,7 @@ recursion_backtracking/NQueens.java
 
 recursion_backtracking/RatInMaze.java
 
-
+.............................................................
 
 Phase 6: Trees
 
@@ -78,7 +78,7 @@ trees/BSTOperations.java → insert, search, delete
 
 trees/LowestCommonAncestor.java
 
-
+.............................................................
 
 Phase 7: Graphs
 
@@ -92,7 +92,7 @@ graphs/Dijkstra.java
 
 graphs/KruskalMST.java
 
-
+.............................................................
 
 Phase 8: Sorting & Searching (Advanced)
 
@@ -104,7 +104,7 @@ sorting_searching/QuickSort.java
 
 sorting_searching/KthLargestElement.java
 
-
+.............................................................
 
 Phase 9: Dynamic Programming
 
@@ -118,7 +118,7 @@ dynamic_programming/LIS.java
 
 dynamic_programming/CoinChange.java
 
-
+.............................................................
 
 Phase 10: Greedy Algorithms
 
@@ -129,7 +129,7 @@ greedy/FractionalKnapsack.java
 greedy/HuffmanEncoding.java
 
 
-
+.............................................................
 
 ⏳ Timeline (if you want a roadmap)
 
